@@ -8,3 +8,9 @@
 
 ## hex-ligh
 <img width="834" alt="hex light theme" src="https://user-images.githubusercontent.com/1206676/90336183-fd307300-e014-11ea-9667-41cef9285ac2.png">
+
+## js-dark
+<img width="834" alt="JS dark theme" src="https://user-images.githubusercontent.com/1206676/157007533-b81e0eaf-9fa6-40e8-a97b-3bbbc47f7a47.png">
+
+## js-light
+<img width="834" alt="JS light theme" src="https://user-images.githubusercontent.com/1206676/157007565-d4b5d97d-95fd-44a6-84c1-5a16c6fb231f.png">
